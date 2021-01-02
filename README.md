@@ -8,7 +8,7 @@ Essentially, you should know the basics of both languages to understand what I d
 
 ## Files organization :file_folder:
 For our purpose, the files are organized in an easy to review way. In this reason, you will find specific files organization that follows the following structure:
-* _Scripts_: Executable code files.
+* _Scripts_: Executable code files (in the case of Python, the codes in .py are here).
 * _Data/inputs_: Data or information that feeds the executed projects.
 * _Notebooks (Only for Jupyter)_: Jupyter Notebook useful to visualize. 
 * _Outputs_: Results, forecasts, predictions, or any output from the project discussed.
