@@ -14,7 +14,7 @@ For our purpose, the folder are organized in an easy to review way. In this reas
 * _Outputs_: Results, forecasts, predictions, or any output from the project discussed.
 * _Plots_: Graphics developed in the project.
 
-The organization of the folders varies depending on the type of project developed. Additionally, there is an image with a conceptual map that summarizes the elaboration process. 
+The organization of the folders varies depending on the type of project developed. Additionally, there is an image with a conceptual map that summarizes the elaboration process and a pdf file with the report of the code.
 
 ## Additional information :books:
 In this section, you will find interesting links that you can review for free if you want to learn more about the topics covered in this project.
