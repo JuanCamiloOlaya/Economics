@@ -7,7 +7,7 @@ I'm happy that you're here. If you have any questions, advice, or comments, do n
 Essentially, you should know the basics of both languages to understand what I did. Regarding codes, for Jupyter Notebook, you will have a text file called *requirements.txt* that you can use to install the necessary Python modules using `pip install -r requirements.txt`. For RStudio, you can use the syntax `install.packages("package_name")`.
 
 ## Folder organization :file_folder:
-For our purpose, the folder are organized in an easy to review way. In this reason, you will find specific folders organization that follows the following structure:
+For our purpose, the folders are organized in an easy to review way. For this reason, you will find specific folders organization that follows the this structure:
 * _Scripts_: Executable code files (in the case of Python, the codes in .py are here).
 * _Data/inputs_: Data or information that feeds the executed projects.
 * _Notebooks (Only for Jupyter)_: Jupyter Notebook useful to visualize. 
