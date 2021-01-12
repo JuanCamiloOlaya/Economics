@@ -1,10 +1,10 @@
 # Economics :chart_with_upwards_trend: :bar_chart:
-This repository is a personal project to share with you my programs in RStudio and Jupyter Notebooks about economic models or any relevant information to learn to manipulate economics data. You're free to clone and share the repository with anyone.
+This repository is a personal project to share with you my programs in R and Python about economic models or any relevant information to learn to manipulate economics data. You're free to clone and share the repository with anyone.
 
 I'm happy that you're here. If you have any questions, advice, or comments, do not hesitate to contact me. Let's get started.
 
 ## Requirements :clipboard:
-Essentially, you should know the basics of both languages to understand what I did. Regarding codes, for Jupyter Notebook, you will have a text file called *requirements.txt* that you can use to install the necessary Python modules using `pip install -r requirements.txt`. For RStudio, you can use the syntax `install.packages("package_name")`.
+Essentially, you should know the basics of both languages to understand what I did. Regarding codes, for Python, you will have a text file called *requirements.txt* that you can use to install the necessary Python modules using `pip install -r requirements.txt`. For RStudio, you can use the syntax `install.packages("package_name")`.
 
 ## Folder organization :file_folder:
 For our purpose, the folders are organized in an easy to review way. For this reason, you will find specific folders organization that follows the this structure:
