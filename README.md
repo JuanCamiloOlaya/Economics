@@ -17,7 +17,7 @@ For our purpose, the folders are organized in an easy to review way. For this re
 The organization of the folders varies depending on the type of project developed. Additionally, there is an image with a conceptual map that summarizes the elaboration process.
 
 ## Additional information :books:
-In this section, you will find interesting links that you can review for free if you want to learn more about the topics covered in this project.
+In this section, you will find interesting links that you can review for free if you want to learn more about the topics covered in this repository.
 * [QuantEcon](https://quantecon.org/)
 * [Corey Schafer - YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 * [Econometrics academy - YouTube](https://www.youtube.com/channel/UCAN7taaPrBLX2LiWbFmJZfw)
