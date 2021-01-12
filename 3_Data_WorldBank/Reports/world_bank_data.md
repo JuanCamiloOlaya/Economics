@@ -177,7 +177,7 @@ write.csv(data, file = "../Outputs/data.csv")
 
 ### Notes
 
-[1] In this code you need to know about topics related to other topics about basic statistical measurements and plot creation.
+[1] In this code you need to know about topics related to basic statistical measurements and plot creation.
 
 [2] **Packages information**: [tidyverse](https://www.tidyverse.org/) and [WDI](https://cran.r-project.org/web/packages/WDI/WDI.pdf).
 
