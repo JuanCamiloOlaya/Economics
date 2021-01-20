@@ -24,3 +24,11 @@ In this section, you will find interesting links that you can review for free if
 * [Econometrics academy - Teaching program](https://sites.google.com/site/econometricsacademy/)
 * [Marginal Revolution University (MRU)](https://mru.org/)
 * [freeCodeCamp - YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+
+Additionally, all codes follow the style guide corresponding to each programming language used in this repository. 
+
+1. R/RStudio:
+   - [The tidyverse style guide](https://style.tidyverse.org/)
+   - [Style guide](http://adv-r.had.co.nz/Style.html)
+2. Python:
+   - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
