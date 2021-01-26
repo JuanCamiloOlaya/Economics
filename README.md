@@ -16,6 +16,13 @@ For our purpose, the folders are organized in an easy to review way. For this re
 
 The organization of the folders varies depending on the type of project developed. Additionally, there is an image with a conceptual map that summarizes the elaboration process.
 
+## Recommendations :pencil2:
+I have some recommendations for you:
+1. **Make sure you are familiar with both software:** You don't need to be an expert. But, you need to know at least the syntax and the basics of R and Python. THIS IS NOT AN INTRODUCTORY COURSE.
+2. **Take into account the requirements:** The programs develop in this repository need the requirements to work. Make sure you have it check.
+3. **Try to understand the code:** When you find functions, loops, or any command that you didn't know, please take a moment to understand it.
+4. **Start with the "Report" folder:** If you are interested in seeing any of the projects, I recommend that you start with the "Reports" folder because it will show you what the code does, its purpose, and everything related to understanding what it does.
+
 ## Additional information :books:
 In this section, you will find interesting links that you can review for free if you want to learn more about the topics covered in this repository.
 * [QuantEcon](https://quantecon.org/)
