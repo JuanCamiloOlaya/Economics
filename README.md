@@ -1,5 +1,5 @@
 # Economics :chart_with_upwards_trend: :bar_chart:
-This repository is a personal project to share with you my programs in R and Python about economic models or any relevant information to learn to manipulate economics data. You're free to clone and share the repository with anyone.
+This repository is a personal project to share with you my programs in R, Python, and MATLAB about economic models or any relevant information to learn to manipulate economics data. You're free to clone and share the repository with anyone.
 
 I'm happy that you're here. If you have any questions, advice, or comments, do not hesitate to contact me. Let's get started.
 
