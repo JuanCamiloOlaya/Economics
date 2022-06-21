@@ -10,7 +10,6 @@ Essentially, you should know the basics of both languages to understand what I d
 For our purpose, the folders are organized in an easy to review way. For this reason, you will find specific folders organization that follows the this structure:
 * _Scripts_: Executable code files.
 * _Data/inputs_: Data or information that feeds the executed projects.
-* _Reports_: R Markdown and Jupyter Notebook are useful to visualize the codes and their results. Besides, both tools allow us to make the code documentation.
 * _Outputs_: Results, forecasts, predictions, or any output from the project discussed.
 * _Plots_: Graphics developed in the project.
 
